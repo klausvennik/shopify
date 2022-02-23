@@ -1,0 +1,31 @@
+<center><img id="frojaabajo" src="https://cdn.shopify.com/s/files/1/0304/4586/3011/files/redarrows.gif?v=1644664390
+"/></center>
+
+
+
+
+{% schema %}
+
+
+  {
+    "name": "Flecha roja abajo",
+
+	"presets":  [
+				{
+
+				"category": "titulo",
+				"name": "Flecha roja abajo"
+				}
+                ]
+  }
+
+
+{% endschema %}
+
+{% stylesheet %}
+
+
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
